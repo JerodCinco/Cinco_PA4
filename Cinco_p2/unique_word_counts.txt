@@ -1,0 +1,4 @@
+toilet 1
+poop 2
+paper 1
+words in the file :{toilet=1, poop=2, paper=1}
